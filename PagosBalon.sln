@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosBalon", "PagosBalon\PagosBalon.csproj", "{55563700-E084-451F-9297-DA1CEDA9605C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55563700-E084-451F-9297-DA1CEDA9605C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55563700-E084-451F-9297-DA1CEDA9605C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55563700-E084-451F-9297-DA1CEDA9605C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55563700-E084-451F-9297-DA1CEDA9605C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09699BDA-E6CF-4E8F-A1DA-FA5EFA649377}
+	EndGlobalSection
+EndGlobal
